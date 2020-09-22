@@ -1,0 +1,6 @@
+API_TOKEN = "xoxb-1375193499077-1363554073255-oQEBfR5UKlE32xPjDkNIF4cd"
+
+PLUGINS = [
+    'dice_bot'
+]
+
